@@ -1,0 +1,43 @@
+/* Define styles for pagination container */
+.pagination {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    justify-content: center;
+  }
+  
+  /* Define styles for individual page numbers */
+  .page-item {
+    margin: 0 5px; /* Adjust margin as needed */
+    display: inline-block;
+  }
+  
+  /* Define styles for page number links */
+  .page-link {
+    color: #333;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    transition: background-color 0.2s ease;
+  }
+  
+  .page-link:hover {
+    background-color: #ddd;
+  }
+  
+  /* Define styles for Previous and Next buttons */
+  .page-item.active .page-link {
+    background-color: #007bff;
+    color: #fff;
+    border-color: #007bff;
+  }
+  
+  /* Define styles for ellipsis (break) element */
+  .break-me {
+    margin: 0 5px; /* Adjust margin as needed */
+    display: inline-block;
+  }
+ 

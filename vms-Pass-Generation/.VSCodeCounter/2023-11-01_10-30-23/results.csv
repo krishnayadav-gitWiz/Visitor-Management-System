@@ -1,0 +1,46 @@
+"filename", "language", "TypeScript JSX", "TypeScript", "CSS", "JavaScript JSX", "XML", "JavaScript", "comment", "blank", "total"
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\ProctectedRoutes.tsx", "TypeScript JSX", 10, 0, 0, 0, 0, 0, 0, 3, 13
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\Routing.tsx", "TypeScript JSX", 206, 0, 0, 0, 0, 0, 0, 19, 225
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\api\ApiConstants.ts", "TypeScript", 0, 51, 0, 0, 0, 0, 0, 5, 56
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\assets\react.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 0, 1
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\axios\AxiosSetup.ts", "TypeScript", 0, 8, 0, 0, 0, 0, 27, 3, 38
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\Footer.tsx", "TypeScript JSX", 15, 0, 0, 0, 0, 0, 0, 4, 19
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\Form.tsx", "TypeScript JSX", 8, 0, 0, 0, 0, 0, 11, 1, 20
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\Header.tsx", "TypeScript JSX", 12, 0, 0, 0, 0, 0, 0, 2, 14
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\ImageCapture.jsx", "JavaScript JSX", 0, 0, 0, 83, 0, 0, 4, 7, 94
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\NewNavbar.tsx", "TypeScript JSX", 164, 0, 0, 0, 0, 0, 2, 32, 198
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\main.tsx", "TypeScript JSX", 12, 0, 0, 0, 0, 0, 0, 1, 13
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\AddUser.tsx", "TypeScript JSX", 262, 0, 0, 0, 0, 0, 3, 23, 288
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\AppointmentReport.tsx", "TypeScript JSX", 224, 0, 0, 0, 0, 0, 0, 40, 264
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Appointments.tsx", "TypeScript JSX", 147, 0, 0, 0, 0, 0, 2, 18, 167
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\LastMonth.tsx", "TypeScript JSX", 191, 0, 0, 0, 0, 0, 2, 14, 207
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\LastSixMonths.tsx", "TypeScript JSX", 138, 0, 0, 0, 0, 0, 3, 22, 163
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\LastWeek.tsx", "TypeScript JSX", 150, 0, 0, 0, 0, 0, 4, 26, 180
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Login.tsx", "TypeScript JSX", 83, 0, 0, 0, 0, 0, 7, 8, 98
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\LoginReports.tsx", "TypeScript JSX", 206, 0, 0, 0, 0, 0, 0, 37, 243
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\NewVisitor.tsx", "TypeScript JSX", 262, 0, 0, 0, 0, 0, 5, 32, 299
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Pass.tsx", "TypeScript JSX", 122, 0, 0, 0, 0, 0, 2, 36, 160
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\TodayEntries.tsx", "TypeScript JSX", 141, 0, 0, 0, 0, 0, 2, 24, 167
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\UpdateVisitor.tsx", "TypeScript JSX", 163, 0, 0, 0, 0, 0, 2, 26, 191
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\UpdateVisitorForm.tsx", "TypeScript JSX", 275, 0, 0, 0, 0, 0, 35, 44, 354
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Users.tsx", "TypeScript JSX", 169, 0, 0, 0, 0, 0, 2, 16, 187
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitDateReport.tsx", "TypeScript JSX", 218, 0, 0, 0, 0, 0, 3, 45, 266
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitingInfo.tsx", "TypeScript JSX", 288, 0, 0, 0, 0, 0, 5, 43, 336
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitorEntry.tsx", "TypeScript JSX", 202, 0, 0, 0, 0, 0, 29, 27, 258
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitorImage.tsx", "TypeScript JSX", 41, 0, 0, 0, 0, 0, 0, 17, 58
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitorReport.tsx", "TypeScript JSX", 226, 0, 0, 0, 0, 0, 3, 47, 276
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Visitors.tsx", "TypeScript JSX", 220, 0, 0, 0, 0, 0, 2, 12, 234
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\changePassword.tsx", "TypeScript JSX", 103, 0, 0, 0, 0, 0, 8, 10, 121
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signatureComponent\CanvasModal.css", "CSS", 0, 0, 62, 0, 0, 0, 0, 8, 70
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signatureComponent\CanvasModal.jsx", "JavaScript JSX", 0, 0, 0, 133, 0, 0, 1, 14, 148
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signatureComponent\STPadServerLib-3.3.0.js", "JavaScript", 0, 0, 0, 0, 0, 2413, 73, 82, 2568
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signatureComponent\SignatureCapture.jsx", "JavaScript JSX", 0, 0, 0, 206, 0, 0, 6, 19, 231
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signotec\CustomLib.tsx", "TypeScript JSX", 347, 0, 0, 0, 0, 0, 117, 56, 520
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signotec\STPadServerLib-3.3.0.js", "JavaScript", 0, 0, 0, 0, 0, 610, 3, 45, 658
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signotec\bluebird.min.js", "JavaScript", 0, 0, 0, 0, 0, 3, 29, 0, 32
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\styles\App.css", "CSS", 0, 0, 33, 0, 0, 0, 0, 6, 39
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\styles\index.css", "CSS", 0, 0, 103, 0, 0, 0, 6, 15, 124
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\styles\styles.css", "CSS", 0, 0, 32, 0, 0, 0, 5, 11, 48
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\utils\LoginInfo.ts", "TypeScript", 0, 18, 0, 0, 0, 0, 0, 0, 18
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\vite-env.d.ts", "TypeScript", 0, 5, 0, 0, 0, 0, 1, 1, 7
+"Total", "-", 4605, 82, 230, 422, 1, 3026, 404, 901, 9671

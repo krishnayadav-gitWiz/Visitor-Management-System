@@ -1,0 +1,140 @@
+Date : 2023-11-01 13:35:58
+Directory : c:\Users\Admin\Desktop\vms-Pass-Generation\backend
+Total : 70 files,  10727 codes, 79 comments, 517 blanks, all 11323 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          6 |      9,332 |          8 |          3 |      9,343 |
+| TypeScript         |         60 |      1,291 |         69 |        490 |      1,850 |
+| Markdown           |          1 |         51 |          2 |         21 |         74 |
+| JavaScript         |          1 |         25 |          0 |          1 |         26 |
+| JSON with Comments |          1 |         22 |          0 |          1 |         23 |
+| TypeScript JSX     |          1 |          6 |          0 |          1 |          7 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                   |         70 |     10,727 |         79 |        517 |     11,323 |
+| . (Files)                                                                                                                           |          8 |      9,421 |         10 |         25 |      9,456 |
+| src                                                                                                                                 |         60 |      1,277 |         69 |        486 |      1,832 |
+| src (Files)                                                                                                                         |          2 |         54 |          0 |          8 |         62 |
+| src\auth                                                                                                                            |          7 |        153 |          0 |         35 |        188 |
+| src\auth (Files)                                                                                                                    |          2 |         70 |          0 |         13 |         83 |
+| src\auth\dto                                                                                                                        |          1 |          4 |          0 |          4 |          8 |
+| src\auth\guard                                                                                                                      |          2 |         28 |          0 |         12 |         40 |
+| src\auth\strategy                                                                                                                   |          2 |         51 |          0 |          6 |         57 |
+| src\login-logs                                                                                                                      |          7 |        104 |          3 |         37 |        144 |
+| src\login-logs (Files)                                                                                                              |          3 |         73 |          3 |         22 |         98 |
+| src\login-logs\dto                                                                                                                  |          2 |         13 |          0 |          8 |         21 |
+| src\login-logs\entities                                                                                                             |          1 |         12 |          0 |          6 |         18 |
+| src\login-logs\repo                                                                                                                 |          1 |          6 |          0 |          1 |          7 |
+| src\monitoring                                                                                                                      |          4 |         64 |          2 |         17 |         83 |
+| src\pass                                                                                                                            |          7 |        201 |          8 |         71 |        280 |
+| src\pass (Files)                                                                                                                    |          3 |         98 |          8 |         32 |        138 |
+| src\pass-cancel-details                                                                                                             |          9 |        107 |          0 |         39 |        146 |
+| src\pass-cancel-details (Files)                                                                                                     |          5 |         83 |          0 |         25 |        108 |
+| src\pass-cancel-details\dto                                                                                                         |          2 |          8 |          0 |          7 |         15 |
+| src\pass-cancel-details\entities                                                                                                    |          1 |         12 |          0 |          6 |         18 |
+| src\pass-cancel-details\repo                                                                                                        |          1 |          4 |          0 |          1 |          5 |
+| src\pass\dto                                                                                                                        |          2 |         55 |          0 |         20 |         75 |
+| src\pass\entities                                                                                                                   |          1 |         42 |          0 |         17 |         59 |
+| src\pass\repo                                                                                                                       |          1 |          6 |          0 |          2 |          8 |
+| src\tvv-date                                                                                                                        |          7 |        218 |         13 |         76 |        307 |
+| src\tvv-date (Files)                                                                                                                |          3 |        125 |          3 |         35 |        163 |
+| src\tvv-date\dto                                                                                                                    |          2 |         31 |          7 |         16 |         54 |
+| src\tvv-date\entities                                                                                                               |          1 |         56 |          3 |         23 |         82 |
+| src\tvv-date\repo                                                                                                                   |          1 |          6 |          0 |          2 |          8 |
+| src\user                                                                                                                            |          9 |        205 |         25 |         82 |        312 |
+| src\user (Files)                                                                                                                    |          3 |        119 |         24 |         42 |        185 |
+| src\user\constants                                                                                                                  |          1 |          7 |          1 |          1 |          9 |
+| src\user\dto                                                                                                                        |          3 |         32 |          0 |         18 |         50 |
+| src\user\entities                                                                                                                   |          1 |         41 |          0 |         21 |         62 |
+| src\user\repo                                                                                                                       |          1 |          6 |          0 |          0 |          6 |
+| src\visitor-appointment-generate                                                                                                    |          8 |        171 |         18 |        121 |        310 |
+| src\visitor-appointment-generate (Files)                                                                                            |          4 |         78 |         11 |         81 |        170 |
+| src\visitor-appointment-generate\dto                                                                                                |          2 |         31 |          6 |         17 |         54 |
+| src\visitor-appointment-generate\entities                                                                                           |          1 |         59 |          1 |         21 |         81 |
+| src\visitor-appointment-generate\repo                                                                                               |          1 |          3 |          0 |          2 |          5 |
+| test                                                                                                                                |          2 |         29 |          0 |          6 |         35 |
++-------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                                                            | language           | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\.eslintrc.js                                                                     | JavaScript         |         25 |          0 |          1 |         26 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\.prettierrc                                                                      | JSON               |          4 |          0 |          0 |          4 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\README.md                                                                        | Markdown           |         51 |          2 |         21 |         74 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\nest-cli.json                                                                    | JSON               |          8 |          0 |          1 |          9 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\package-lock.json                                                                | JSON               |      9,224 |          0 |          1 |      9,225 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\package.json                                                                     | JSON               |         84 |          6 |          0 |         90 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\app.module.ts                                                                | TypeScript         |         42 |          0 |          4 |         46 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\auth\auth.cotroller.ts                                                       | TypeScript         |         34 |          0 |          7 |         41 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\auth\auth.module.ts                                                          | TypeScript         |         36 |          0 |          6 |         42 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\auth\dto\login.dto.ts                                                        | TypeScript         |          4 |          0 |          4 |          8 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\auth\guard\jwt.guards.ts                                                     | TypeScript         |         14 |          0 |          7 |         21 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\auth\guard\role.guard.ts                                                     | TypeScript         |         14 |          0 |          5 |         19 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\auth\strategy\jwt.strategy.ts                                                | TypeScript         |         26 |          0 |          3 |         29 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\auth\strategy\local.strategy.ts                                              | TypeScript         |         25 |          0 |          3 |         28 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\login-logs\dto\create-login-log.dto.ts                                       | TypeScript         |          9 |          0 |          5 |         14 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\login-logs\dto\update-login-log.dto.ts                                       | TypeScript         |          4 |          0 |          3 |          7 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\login-logs\entities\login-log.entity.ts                                      | TypeScript         |         12 |          0 |          6 |         18 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\login-logs\login-logs.controller.ts                                          | TypeScript         |         22 |          0 |          7 |         29 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\login-logs\login-logs.module.ts                                              | TypeScript         |         13 |          0 |          2 |         15 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\login-logs\login-logs.service.ts                                             | TypeScript         |         38 |          3 |         13 |         54 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\login-logs\repo\LoginReportsRepository.tsx                                   | TypeScript JSX     |          6 |          0 |          1 |          7 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\main.ts                                                                      | TypeScript         |         12 |          0 |          4 |         16 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\monitoring\monitoring.controller.spec.ts                                     | TypeScript         |         14 |          0 |          5 |         19 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\monitoring\monitoring.controller.ts                                          | TypeScript         |         20 |          1 |          5 |         26 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\monitoring\monitoring.service.spec.ts                                        | TypeScript         |         14 |          0 |          5 |         19 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\monitoring\monitoring.service.ts                                             | TypeScript         |         16 |          1 |          2 |         19 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\dto\create-pass-cancel-detail.dto.ts                     | TypeScript         |          5 |          0 |          5 |         10 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\dto\update-pass-cancel-detail.dto.ts                     | TypeScript         |          3 |          0 |          2 |          5 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\entities\pass-cancel-detail.entity.ts                    | TypeScript         |         12 |          0 |          6 |         18 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\pass-cancel-details.controller.spec.ts                   | TypeScript         |         16 |          0 |          5 |         21 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\pass-cancel-details.controller.ts                        | TypeScript         |         16 |          0 |          6 |         22 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\pass-cancel-details.module.ts                            | TypeScript         |         13 |          0 |          2 |         15 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\pass-cancel-details.service.spec.ts                      | TypeScript         |         14 |          0 |          5 |         19 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\pass-cancel-details.service.ts                           | TypeScript         |         24 |          0 |          7 |         31 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\repo\cancelPass.repository.ts                            | TypeScript         |          4 |          0 |          1 |          5 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass\dto\create-tblVisitor.dto.ts                                            | TypeScript         |         23 |          0 |          9 |         32 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass\dto\update-pass.dto.ts                                                  | TypeScript         |         32 |          0 |         11 |         43 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass\entities\tblVisitor.entity.ts                                           | TypeScript         |         42 |          0 |         17 |         59 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass\pass.controller.ts                                                      | TypeScript         |         38 |          4 |         14 |         56 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass\pass.module.ts                                                          | TypeScript         |         13 |          0 |          2 |         15 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass\pass.service.ts                                                         | TypeScript         |         47 |          4 |         16 |         67 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass\repo\pass.repository.ts                                                 | TypeScript         |          6 |          0 |          2 |          8 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\tvv-date\dto\create-tvv-date.dto.ts                                          | TypeScript         |         22 |          5 |         11 |         38 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\tvv-date\dto\update-tvv-date.dto.ts                                          | TypeScript         |          9 |          2 |          5 |         16 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\tvv-date\entities\tvv-date.entity.ts                                         | TypeScript         |         56 |          3 |         23 |         82 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\tvv-date\repo\tvv-date.repository.ts                                         | TypeScript         |          6 |          0 |          2 |          8 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\tvv-date\tvv-date.controller.ts                                              | TypeScript         |         34 |          1 |         13 |         48 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\tvv-date\tvv-date.module.ts                                                  | TypeScript         |         14 |          0 |          3 |         17 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\tvv-date\tvv-date.service.ts                                                 | TypeScript         |         77 |          2 |         19 |         98 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\constants\user.constants.ts                                             | TypeScript         |          7 |          1 |          1 |          9 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\dto\create-user.dto.ts                                                  | TypeScript         |         21 |          0 |         13 |         34 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\dto\update-user.dto.ts                                                  | TypeScript         |          6 |          0 |          4 |         10 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\dto\updatePassword.dto.ts                                               | TypeScript         |          5 |          0 |          1 |          6 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\entities\user.entity.ts                                                 | TypeScript         |         41 |          0 |         21 |         62 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\repo\user.repository.ts                                                 | TypeScript         |          6 |          0 |          0 |          6 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\user.controller.ts                                                      | TypeScript         |         55 |          2 |         22 |         79 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\user.module.ts                                                          | TypeScript         |         14 |          0 |          3 |         17 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\user.service.ts                                                         | TypeScript         |         50 |         22 |         17 |         89 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\dto\create-visitor-appointment-generate.dto.ts  | TypeScript         |         28 |          6 |         15 |         49 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\dto\update-visitor-appointment-generate.dto.ts  | TypeScript         |          3 |          0 |          2 |          5 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\entities\visitor-appointment-generate.entity.ts | TypeScript         |         59 |          1 |         21 |         81 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\repo\appointment.repository.ts                  | TypeScript         |          3 |          0 |          2 |          5 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\visitor-appointment-generate.controller.ts      | TypeScript         |         15 |          0 |          6 |         21 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\visitor-appointment-generate.module.ts          | TypeScript         |         12 |          0 |          2 |         14 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\visitor-appointment-generate.service.spec.ts    | TypeScript         |         21 |          8 |         61 |         90 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\visitor-appointment-generate.service.ts         | TypeScript         |         30 |          3 |         12 |         45 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\test\app.e2e-spec.ts                                                             | TypeScript         |         20 |          0 |          5 |         25 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\test\jest-e2e.json                                                               | JSON               |          9 |          0 |          1 |         10 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\tsconfig.build.json                                                              | JSON               |          3 |          2 |          0 |          5 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\tsconfig.json                                                                    | JSON with Comments |         22 |          0 |          1 |         23 |
+| Total                                                                                                                               |                    |     10,727 |         79 |        517 |     11,323 |
++-------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

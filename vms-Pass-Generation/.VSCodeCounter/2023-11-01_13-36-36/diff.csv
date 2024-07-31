@@ -1,0 +1,12 @@
+"filename", "language", "JSON", "JavaScript", "Markdown", "TypeScript", "JSON with Comments", "comment", "blank", "total"
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\.eslintrc.js", "JavaScript", 0, -25, 0, 0, 0, 0, -1, -26
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\.prettierrc", "JSON", -4, 0, 0, 0, 0, 0, 0, -4
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\README.md", "Markdown", 0, 0, -51, 0, 0, -2, -21, -74
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\nest-cli.json", "JSON", -8, 0, 0, 0, 0, 0, -1, -9
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\package-lock.json", "JSON", -9224, 0, 0, 0, 0, 0, -1, -9225
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\package.json", "JSON", -84, 0, 0, 0, 0, -6, 0, -90
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\test\app.e2e-spec.ts", "TypeScript", 0, 0, 0, -20, 0, 0, -5, -25
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\test\jest-e2e.json", "JSON", -9, 0, 0, 0, 0, 0, -1, -10
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\tsconfig.build.json", "JSON", -3, 0, 0, 0, 0, -2, 0, -5
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\tsconfig.json", "JSON with Comments", 0, 0, 0, 0, -22, 0, -1, -23
+"Total", "-", -9332, -25, -51, -20, -22, -10, -31, -9491

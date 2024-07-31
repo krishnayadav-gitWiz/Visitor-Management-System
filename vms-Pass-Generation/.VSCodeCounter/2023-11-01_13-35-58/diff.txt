@@ -1,0 +1,48 @@
+Date : 2023-11-01 13:35:58
+Directory : c:\Users\Admin\Desktop\vms-Pass-Generation\backend
+Total : 15 files,  9518 codes, 12 comments, 48 blanks, all 9578 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          6 |      9,332 |          8 |          3 |      9,343 |
+| TypeScript         |          6 |         88 |          2 |         22 |        112 |
+| Markdown           |          1 |         51 |          2 |         21 |         74 |
+| JavaScript         |          1 |         25 |          0 |          1 |         26 |
+| JSON with Comments |          1 |         22 |          0 |          1 |         23 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                            | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                               |         15 |      9,518 |         12 |         48 |      9,578 |
+| . (Files)                                                                                       |          8 |      9,421 |         10 |         25 |      9,456 |
+| src                                                                                             |          5 |         68 |          2 |         17 |         87 |
+| src (Files)                                                                                     |          1 |          4 |          0 |          0 |          4 |
+| src\monitoring                                                                                  |          4 |         64 |          2 |         17 |         83 |
+| test                                                                                            |          2 |         29 |          0 |          6 |         35 |
++-------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                        | language           | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\.eslintrc.js                                 | JavaScript         |         25 |          0 |          1 |         26 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\.prettierrc                                  | JSON               |          4 |          0 |          0 |          4 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\README.md                                    | Markdown           |         51 |          2 |         21 |         74 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\nest-cli.json                                | JSON               |          8 |          0 |          1 |          9 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\package-lock.json                            | JSON               |      9,224 |          0 |          1 |      9,225 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\package.json                                 | JSON               |         84 |          6 |          0 |         90 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\app.module.ts                            | TypeScript         |          4 |          0 |          0 |          4 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\monitoring\monitoring.controller.spec.ts | TypeScript         |         14 |          0 |          5 |         19 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\monitoring\monitoring.controller.ts      | TypeScript         |         20 |          1 |          5 |         26 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\monitoring\monitoring.service.spec.ts    | TypeScript         |         14 |          0 |          5 |         19 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\monitoring\monitoring.service.ts         | TypeScript         |         16 |          1 |          2 |         19 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\test\app.e2e-spec.ts                         | TypeScript         |         20 |          0 |          5 |         25 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\test\jest-e2e.json                           | JSON               |          9 |          0 |          1 |         10 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\tsconfig.build.json                          | JSON               |          3 |          2 |          0 |          5 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\backend\tsconfig.json                                | JSON with Comments |         22 |          0 |          1 |         23 |
+| Total                                                                                           |                    |      9,518 |         12 |         48 |      9,578 |
++-------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+

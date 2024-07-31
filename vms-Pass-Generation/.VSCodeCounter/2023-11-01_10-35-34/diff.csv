@@ -1,0 +1,102 @@
+"filename", "language", "TypeScript", "TypeScript JSX", "CSS", "JavaScript JSX", "XML", "JavaScript", "comment", "blank", "total"
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\app.module.ts", "TypeScript", 38, 0, 0, 0, 0, 0, 0, 4, 42
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\auth\auth.cotroller.ts", "TypeScript", 34, 0, 0, 0, 0, 0, 0, 7, 41
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\auth\auth.module.ts", "TypeScript", 36, 0, 0, 0, 0, 0, 0, 6, 42
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\auth\dto\login.dto.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 4, 8
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\auth\guard\jwt.guards.ts", "TypeScript", 14, 0, 0, 0, 0, 0, 0, 7, 21
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\auth\guard\role.guard.ts", "TypeScript", 14, 0, 0, 0, 0, 0, 0, 5, 19
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\auth\strategy\jwt.strategy.ts", "TypeScript", 26, 0, 0, 0, 0, 0, 0, 3, 29
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\auth\strategy\local.strategy.ts", "TypeScript", 25, 0, 0, 0, 0, 0, 0, 3, 28
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\login-logs\dto\create-login-log.dto.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 0, 5, 14
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\login-logs\dto\update-login-log.dto.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 3, 7
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\login-logs\entities\login-log.entity.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 6, 18
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\login-logs\login-logs.controller.ts", "TypeScript", 22, 0, 0, 0, 0, 0, 0, 7, 29
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\login-logs\login-logs.module.ts", "TypeScript", 13, 0, 0, 0, 0, 0, 0, 2, 15
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\login-logs\login-logs.service.ts", "TypeScript", 38, 0, 0, 0, 0, 0, 3, 13, 54
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\login-logs\repo\LoginReportsRepository.tsx", "TypeScript JSX", 0, 6, 0, 0, 0, 0, 0, 1, 7
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\main.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 4, 16
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\dto\create-pass-cancel-detail.dto.ts", "TypeScript", 5, 0, 0, 0, 0, 0, 0, 5, 10
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\dto\update-pass-cancel-detail.dto.ts", "TypeScript", 3, 0, 0, 0, 0, 0, 0, 2, 5
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\entities\pass-cancel-detail.entity.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 6, 18
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\pass-cancel-details.controller.spec.ts", "TypeScript", 16, 0, 0, 0, 0, 0, 0, 5, 21
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\pass-cancel-details.controller.ts", "TypeScript", 16, 0, 0, 0, 0, 0, 0, 6, 22
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\pass-cancel-details.module.ts", "TypeScript", 13, 0, 0, 0, 0, 0, 0, 2, 15
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\pass-cancel-details.service.spec.ts", "TypeScript", 14, 0, 0, 0, 0, 0, 0, 5, 19
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\pass-cancel-details.service.ts", "TypeScript", 24, 0, 0, 0, 0, 0, 0, 7, 31
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass-cancel-details\repo\cancelPass.repository.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 1, 5
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass\dto\create-tblVisitor.dto.ts", "TypeScript", 23, 0, 0, 0, 0, 0, 0, 9, 32
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass\dto\update-pass.dto.ts", "TypeScript", 32, 0, 0, 0, 0, 0, 0, 11, 43
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass\entities\tblVisitor.entity.ts", "TypeScript", 42, 0, 0, 0, 0, 0, 0, 17, 59
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass\pass.controller.ts", "TypeScript", 38, 0, 0, 0, 0, 0, 4, 14, 56
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass\pass.module.ts", "TypeScript", 13, 0, 0, 0, 0, 0, 0, 2, 15
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass\pass.service.ts", "TypeScript", 47, 0, 0, 0, 0, 0, 4, 16, 67
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\pass\repo\pass.repository.ts", "TypeScript", 6, 0, 0, 0, 0, 0, 0, 2, 8
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\tvv-date\dto\create-tvv-date.dto.ts", "TypeScript", 22, 0, 0, 0, 0, 0, 5, 11, 38
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\tvv-date\dto\update-tvv-date.dto.ts", "TypeScript", 9, 0, 0, 0, 0, 0, 2, 5, 16
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\tvv-date\entities\tvv-date.entity.ts", "TypeScript", 56, 0, 0, 0, 0, 0, 3, 23, 82
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\tvv-date\repo\tvv-date.repository.ts", "TypeScript", 6, 0, 0, 0, 0, 0, 0, 2, 8
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\tvv-date\tvv-date.controller.ts", "TypeScript", 34, 0, 0, 0, 0, 0, 1, 13, 48
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\tvv-date\tvv-date.module.ts", "TypeScript", 14, 0, 0, 0, 0, 0, 0, 3, 17
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\tvv-date\tvv-date.service.ts", "TypeScript", 77, 0, 0, 0, 0, 0, 2, 19, 98
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\constants\user.constants.ts", "TypeScript", 7, 0, 0, 0, 0, 0, 1, 1, 9
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\dto\create-user.dto.ts", "TypeScript", 21, 0, 0, 0, 0, 0, 0, 13, 34
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\dto\update-user.dto.ts", "TypeScript", 6, 0, 0, 0, 0, 0, 0, 4, 10
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\dto\updatePassword.dto.ts", "TypeScript", 5, 0, 0, 0, 0, 0, 0, 1, 6
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\entities\user.entity.ts", "TypeScript", 41, 0, 0, 0, 0, 0, 0, 21, 62
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\repo\user.repository.ts", "TypeScript", 6, 0, 0, 0, 0, 0, 0, 0, 6
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\user.controller.ts", "TypeScript", 55, 0, 0, 0, 0, 0, 2, 22, 79
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\user.module.ts", "TypeScript", 14, 0, 0, 0, 0, 0, 0, 3, 17
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\user\user.service.ts", "TypeScript", 50, 0, 0, 0, 0, 0, 22, 17, 89
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\dto\create-visitor-appointment-generate.dto.ts", "TypeScript", 28, 0, 0, 0, 0, 0, 6, 15, 49
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\dto\update-visitor-appointment-generate.dto.ts", "TypeScript", 3, 0, 0, 0, 0, 0, 0, 2, 5
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\entities\visitor-appointment-generate.entity.ts", "TypeScript", 59, 0, 0, 0, 0, 0, 1, 21, 81
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\repo\appointment.repository.ts", "TypeScript", 3, 0, 0, 0, 0, 0, 0, 2, 5
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\visitor-appointment-generate.controller.ts", "TypeScript", 15, 0, 0, 0, 0, 0, 0, 6, 21
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\visitor-appointment-generate.module.ts", "TypeScript", 12, 0, 0, 0, 0, 0, 0, 2, 14
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\visitor-appointment-generate.service.spec.ts", "TypeScript", 21, 0, 0, 0, 0, 0, 8, 61, 90
+"c:\Users\Admin\Desktop\vms-Pass-Generation\backend\src\visitor-appointment-generate\visitor-appointment-generate.service.ts", "TypeScript", 30, 0, 0, 0, 0, 0, 3, 12, 45
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\ProctectedRoutes.tsx", "TypeScript JSX", 0, -10, 0, 0, 0, 0, 0, -3, -13
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\Routing.tsx", "TypeScript JSX", 0, -206, 0, 0, 0, 0, 0, -19, -225
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\api\ApiConstants.ts", "TypeScript", -51, 0, 0, 0, 0, 0, 0, -5, -56
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\assets\react.svg", "XML", 0, 0, 0, 0, -1, 0, 0, 0, -1
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\axios\AxiosSetup.ts", "TypeScript", -8, 0, 0, 0, 0, 0, -27, -3, -38
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\Footer.tsx", "TypeScript JSX", 0, -15, 0, 0, 0, 0, 0, -4, -19
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\Form.tsx", "TypeScript JSX", 0, -8, 0, 0, 0, 0, -11, -1, -20
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\Header.tsx", "TypeScript JSX", 0, -12, 0, 0, 0, 0, 0, -2, -14
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\ImageCapture.jsx", "JavaScript JSX", 0, 0, 0, -83, 0, 0, -4, -7, -94
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\NewNavbar.tsx", "TypeScript JSX", 0, -164, 0, 0, 0, 0, -2, -32, -198
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\main.tsx", "TypeScript JSX", 0, -12, 0, 0, 0, 0, 0, -1, -13
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\AddUser.tsx", "TypeScript JSX", 0, -262, 0, 0, 0, 0, -3, -23, -288
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\AppointmentReport.tsx", "TypeScript JSX", 0, -224, 0, 0, 0, 0, 0, -40, -264
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Appointments.tsx", "TypeScript JSX", 0, -147, 0, 0, 0, 0, -2, -18, -167
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\LastMonth.tsx", "TypeScript JSX", 0, -191, 0, 0, 0, 0, -2, -14, -207
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\LastSixMonths.tsx", "TypeScript JSX", 0, -138, 0, 0, 0, 0, -3, -22, -163
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\LastWeek.tsx", "TypeScript JSX", 0, -150, 0, 0, 0, 0, -4, -26, -180
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Login.tsx", "TypeScript JSX", 0, -83, 0, 0, 0, 0, -7, -8, -98
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\LoginReports.tsx", "TypeScript JSX", 0, -206, 0, 0, 0, 0, 0, -37, -243
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\NewVisitor.tsx", "TypeScript JSX", 0, -262, 0, 0, 0, 0, -5, -32, -299
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Pass.tsx", "TypeScript JSX", 0, -122, 0, 0, 0, 0, -2, -36, -160
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\TodayEntries.tsx", "TypeScript JSX", 0, -141, 0, 0, 0, 0, -2, -24, -167
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\UpdateVisitor.tsx", "TypeScript JSX", 0, -163, 0, 0, 0, 0, -2, -26, -191
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\UpdateVisitorForm.tsx", "TypeScript JSX", 0, -275, 0, 0, 0, 0, -35, -44, -354
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Users.tsx", "TypeScript JSX", 0, -169, 0, 0, 0, 0, -2, -16, -187
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitDateReport.tsx", "TypeScript JSX", 0, -218, 0, 0, 0, 0, -3, -45, -266
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitingInfo.tsx", "TypeScript JSX", 0, -288, 0, 0, 0, 0, -5, -43, -336
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitorEntry.tsx", "TypeScript JSX", 0, -202, 0, 0, 0, 0, -29, -27, -258
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitorImage.tsx", "TypeScript JSX", 0, -41, 0, 0, 0, 0, 0, -17, -58
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitorReport.tsx", "TypeScript JSX", 0, -226, 0, 0, 0, 0, -3, -47, -276
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Visitors.tsx", "TypeScript JSX", 0, -220, 0, 0, 0, 0, -2, -12, -234
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\changePassword.tsx", "TypeScript JSX", 0, -103, 0, 0, 0, 0, -8, -10, -121
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signatureComponent\CanvasModal.css", "CSS", 0, 0, -62, 0, 0, 0, 0, -8, -70
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signatureComponent\CanvasModal.jsx", "JavaScript JSX", 0, 0, 0, -133, 0, 0, -1, -14, -148
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signatureComponent\STPadServerLib-3.3.0.js", "JavaScript", 0, 0, 0, 0, 0, -2413, -73, -82, -2568
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signatureComponent\SignatureCapture.jsx", "JavaScript JSX", 0, 0, 0, -206, 0, 0, -6, -19, -231
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signotec\CustomLib.tsx", "TypeScript JSX", 0, -347, 0, 0, 0, 0, -117, -56, -520
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signotec\STPadServerLib-3.3.0.js", "JavaScript", 0, 0, 0, 0, 0, -610, -3, -45, -658
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signotec\bluebird.min.js", "JavaScript", 0, 0, 0, 0, 0, -3, -29, 0, -32
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\styles\App.css", "CSS", 0, 0, -33, 0, 0, 0, 0, -6, -39
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\styles\index.css", "CSS", 0, 0, -103, 0, 0, 0, -6, -15, -124
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\styles\styles.css", "CSS", 0, 0, -32, 0, 0, 0, -5, -11, -48
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\utils\LoginInfo.ts", "TypeScript", -18, 0, 0, 0, 0, 0, 0, 0, -18
+"c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\vite-env.d.ts", "TypeScript", -5, 0, 0, 0, 0, 0, -1, -1, -7
+"Total", "-", 1121, -4599, -230, -422, -1, -3026, -337, -432, -7926

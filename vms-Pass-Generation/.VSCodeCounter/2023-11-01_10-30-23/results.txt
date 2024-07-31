@@ -1,0 +1,83 @@
+Date : 2023-11-01 10:30:23
+Directory : c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src
+Total : 44 files,  8366 codes, 404 comments, 901 blanks, all 9671 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| TypeScript JSX |         29 |      4,605 |        249 |        685 |      5,539 |
+| JavaScript     |          3 |      3,026 |        105 |        127 |      3,258 |
+| JavaScript JSX |          3 |        422 |         11 |         40 |        473 |
+| CSS            |          4 |        230 |         11 |         40 |        281 |
+| TypeScript     |          4 |         82 |         28 |          9 |        119 |
+| XML            |          1 |          1 |          0 |          0 |          1 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                               | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                  |         44 |      8,366 |        404 |        901 |      9,671 |
+| . (Files)                                                                                          |          4 |        233 |          1 |         24 |        258 |
+| api                                                                                                |          1 |         51 |          0 |          5 |         56 |
+| assets                                                                                             |          1 |          1 |          0 |          0 |          1 |
+| axios                                                                                              |          1 |          8 |         27 |          3 |         38 |
+| components                                                                                         |          5 |        282 |         17 |         46 |        345 |
+| pages                                                                                              |         21 |      3,831 |        119 |        567 |      4,517 |
+| signatureComponent                                                                                 |          4 |      2,814 |         80 |        123 |      3,017 |
+| signotec                                                                                           |          3 |        960 |        149 |        101 |      1,210 |
+| styles                                                                                             |          3 |        168 |         11 |         32 |        211 |
+| utils                                                                                              |          1 |         18 |          0 |          0 |         18 |
++----------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                                           | language       | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\ProctectedRoutes.tsx                       | TypeScript JSX |         10 |          0 |          3 |         13 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\Routing.tsx                                | TypeScript JSX |        206 |          0 |         19 |        225 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\api\ApiConstants.ts                        | TypeScript     |         51 |          0 |          5 |         56 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\assets\react.svg                           | XML            |          1 |          0 |          0 |          1 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\axios\AxiosSetup.ts                        | TypeScript     |          8 |         27 |          3 |         38 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\Footer.tsx                      | TypeScript JSX |         15 |          0 |          4 |         19 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\Form.tsx                        | TypeScript JSX |          8 |         11 |          1 |         20 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\Header.tsx                      | TypeScript JSX |         12 |          0 |          2 |         14 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\ImageCapture.jsx                | JavaScript JSX |         83 |          4 |          7 |         94 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\components\NewNavbar.tsx                   | TypeScript JSX |        164 |          2 |         32 |        198 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\main.tsx                                   | TypeScript JSX |         12 |          0 |          1 |         13 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\AddUser.tsx                          | TypeScript JSX |        262 |          3 |         23 |        288 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\AppointmentReport.tsx                | TypeScript JSX |        224 |          0 |         40 |        264 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Appointments.tsx                     | TypeScript JSX |        147 |          2 |         18 |        167 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\LastMonth.tsx                        | TypeScript JSX |        191 |          2 |         14 |        207 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\LastSixMonths.tsx                    | TypeScript JSX |        138 |          3 |         22 |        163 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\LastWeek.tsx                         | TypeScript JSX |        150 |          4 |         26 |        180 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Login.tsx                            | TypeScript JSX |         83 |          7 |          8 |         98 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\LoginReports.tsx                     | TypeScript JSX |        206 |          0 |         37 |        243 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\NewVisitor.tsx                       | TypeScript JSX |        262 |          5 |         32 |        299 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Pass.tsx                             | TypeScript JSX |        122 |          2 |         36 |        160 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\TodayEntries.tsx                     | TypeScript JSX |        141 |          2 |         24 |        167 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\UpdateVisitor.tsx                    | TypeScript JSX |        163 |          2 |         26 |        191 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\UpdateVisitorForm.tsx                | TypeScript JSX |        275 |         35 |         44 |        354 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Users.tsx                            | TypeScript JSX |        169 |          2 |         16 |        187 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitDateReport.tsx                  | TypeScript JSX |        218 |          3 |         45 |        266 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitingInfo.tsx                     | TypeScript JSX |        288 |          5 |         43 |        336 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitorEntry.tsx                     | TypeScript JSX |        202 |         29 |         27 |        258 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitorImage.tsx                     | TypeScript JSX |         41 |          0 |         17 |         58 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\VisitorReport.tsx                    | TypeScript JSX |        226 |          3 |         47 |        276 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\Visitors.tsx                         | TypeScript JSX |        220 |          2 |         12 |        234 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\pages\changePassword.tsx                   | TypeScript JSX |        103 |          8 |         10 |        121 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signatureComponent\CanvasModal.css         | CSS            |         62 |          0 |          8 |         70 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signatureComponent\CanvasModal.jsx         | JavaScript JSX |        133 |          1 |         14 |        148 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signatureComponent\STPadServerLib-3.3.0.js | JavaScript     |      2,413 |         73 |         82 |      2,568 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signatureComponent\SignatureCapture.jsx    | JavaScript JSX |        206 |          6 |         19 |        231 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signotec\CustomLib.tsx                     | TypeScript JSX |        347 |        117 |         56 |        520 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signotec\STPadServerLib-3.3.0.js           | JavaScript     |        610 |          3 |         45 |        658 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\signotec\bluebird.min.js                   | JavaScript     |          3 |         29 |          0 |         32 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\styles\App.css                             | CSS            |         33 |          0 |          6 |         39 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\styles\index.css                           | CSS            |        103 |          6 |         15 |        124 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\styles\styles.css                          | CSS            |         32 |          5 |         11 |         48 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\utils\LoginInfo.ts                         | TypeScript     |         18 |          0 |          0 |         18 |
+| c:\Users\Admin\Desktop\vms-Pass-Generation\frontend\src\vite-env.d.ts                              | TypeScript     |          5 |          1 |          1 |          7 |
+| Total                                                                                              |                |      8,366 |        404 |        901 |      9,671 |
++----------------------------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
